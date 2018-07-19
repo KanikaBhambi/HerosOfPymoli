@@ -1,5 +1,8 @@
 
-# **Heros of Pymoli**
+# *Heroes of Pymoli Data Analysis*
+- As the Total Purchase count is 780, the number of unique players 573. Most of the players have repeated their purchases for the Heroes of Pymoli game.
+- The best represented age bracket in the data is 20-24 years, accounting for 45% of the entire sample. 
+- The list of most profitable items is led by some of the most expensive items, rather than those that were purchased the most often.
 
 
 
@@ -954,7 +957,4 @@ Most_Profitable_top_df[['Purchase Count','Item price','Total Purchase Value']]
 
 
 
-# *Heroes of Pymoli Data Analysis*
-- As the Total Purchase count is 780, the number of unique players 573. Most of the players have repeated their purchases for the Heroes of Pymoli game.
-- The best represented age bracket in the data is 20-24 years, accounting for 45% of the entire sample. 
-- The list of most profitable items is led by some of the most expensive items, rather than those that were purchased the most often.
+
